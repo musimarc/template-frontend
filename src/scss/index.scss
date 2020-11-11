@@ -1,0 +1,8 @@
+@import 'variables.scss';
+@import "custom";
+@import "node_modules/bootstrap/scss/bootstrap";
+
+body {
+    color: $primary;
+    background-color: rgb(59, 57, 57);
+}
